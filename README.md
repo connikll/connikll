@@ -1,7 +1,7 @@
 # Hi 👋, I'm Umar Sautiev
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0891B2&width=435&lines=Software+Engineer;Android+Developer;Kotlin+%26+Java+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DC2626&width=435&lines=Software+Engineer;Android+Developer;Kotlin+%26+Java+Enthusiast" alt="Typing SVG" />
 </p>
 
 ### 🚀 About Me
@@ -35,6 +35,14 @@ As a passion-driven beginner software engineer based in **Ingushetia**, I am act
 
 ---
 
+### 📊 GitHub Statistics
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=connikll&theme=dark&background=0d1117&ring=dc2626&fire=dc2626&currStreakNum=ffffff&currStreakLabel=dc2626&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
 ### 📌 Featured Projects
 
 #### 📱 [Android Application](https://github.com/connikll/AndroidApp)
@@ -47,19 +55,11 @@ As a passion-driven beginner software engineer based in **Ingushetia**, I am act
 
 ---
 
-### 📌 GitHub stats
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=connikll&theme=dark&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🌐 Connect & Socials
 
 <p align="left">
   <a href="https://github.com/connikll" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-connikll-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-connikll-991B1B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://x.com/connik26" target="_blank">
     <img src="https://img.shields.io/badge/X-connik26-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
