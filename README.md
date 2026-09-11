@@ -107,9 +107,7 @@ As a passion-driven software engineer based in <b>Ingushetia</b>, I am actively 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=connikll&theme=dark&background=0d1117&ring=dc2626&fire=dc2626&currStreakNum=ffffff&currStreakLabel=dc2626&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a425-11eb-8589-111578283bbf.gif" width="100%" height="2px" />
-</p>
+<<hr style="background-color: #DC2626; height: 1px; border: none; margin: 20px 0;" />
 
 ### <font face="Fira Code, Consolas" color="#DC2626">🌐 Connect & Socials</font>
 
