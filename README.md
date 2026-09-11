@@ -10,30 +10,23 @@
 
 ### <font face="Fira Code, Consolas" color="#DC2626">🚀 About Me</font>
 
-<font face="Segoe UI, sans-serif">
-
-As a passion-driven beginner software engineer based in **Ingushetia**, I am actively expanding my skillset in mobile application development, object-oriented design, and backend REST APIs. I am currently focused on building native Android applications and collaborating on open-source projects.
-
+<blockquote>
+<font face="Segoe UI, sans-serif" size="3">
+As a passion-driven software engineer based in <b>Ingushetia</b>, I am actively expanding my skillset in mobile application development, object-oriented design, and backend REST APIs. Currently focused on building native Android apps and contributing to open-source.
 </font>
-
-* 🌍 **Location:** <font color="#DC2626">Ingushetia</font>
-* ✉️ **Contact:** <a href="mailto:sautievumar77@gmail.com"><font color="#DC2626">sautievumar77@gmail.com</font></a>
-* 🖥️ **Portfolio:** <a href="https://github.com/Barakhoev/java-task-management"><font color="#DC2626">Java Task Management</font></a>
-* 🚀 **Working on:** <a href="https://github.com/connikll/AndroidApp"><font color="#DC2626">Android App</font></a>
-* 🧠 **Learning:** Android Application Development (Kotlin, Jetpack)
-* 👥 **Collaborating:** Open-source projects & Mobile apps
-
----
-
-### <font face="Fira Code, Consolas" color="#DC2626">🖼️ Gallery & Aesthetics</font>
+</blockquote>
 
 <table border="0">
   <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://i.pinimg.com/1200x/b2/f7/7d/b2f77d11a9bc6d19a7d9f9df2ab03630.jpg" />
+    <td width="50%" valign="top">
+      <p>🌐 <b>Location:</b> <font color="#DC2626">Ingushetia</font></p>
+      <p>✉️ <b>Contact:</b> <a href="mailto:sautievumar77@gmail.com"><font color="#DC2626">sautievumar77@gmail.com</font></a></p>
+      <p>💻 <b>Portfolio:</b> <a href="https://github.com/Barakhoev/java-task-management"><font color="#DC2626">Java Task Management</font></a></p>
     </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://i.pinimg.com/736x/fa/24/9b/fa249b4e4d65bc40c347a60739cd84a7.jpg" width="100%" style="border-radius:10px; border: 1px solid #dc2626;" alt="Artwork 2" />
+    <td width="50%" valign="top">
+      <p>🚀 <b>Working on:</b> <a href="https://github.com/connikll/AndroidApp"><font color="#DC2626">Android App</font></a></p>
+      <p>🧠 <b>Learning:</b> <font color="#DC2626">Kotlin, Jetpack, Clean Architecture</font></p>
+      <p>👥 <b>Collaborating:</b> <font color="#DC2626">Open-Source & Android Apps</font></p>
     </td>
   </tr>
 </table>
