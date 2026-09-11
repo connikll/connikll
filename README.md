@@ -18,7 +18,9 @@
 
 </div>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a425-11eb-8589-111578283bbf.gif" width="100%" height="2px" />
+</p>
 
 ### <font face="Fira Code, Consolas" color="#DC2626">🚀 About Me</font>
 
@@ -36,7 +38,9 @@ As a passion-driven software engineer based in <b>Ingushetia</b>, I am actively 
   <a href="https://github.com/Barakhoev/java-task-management"><img src="https://img.shields.io/badge/Featured-Java_Task_Management-1c1917?style=flat-square&logo=java&logoColor=DC2626" /></a>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a425-11eb-8589-111578283bbf.gif" width="100%" height="2px" />
+</p>
 
 ### <font face="Fira Code, Consolas" color="#DC2626">🖼️ Gallery & Aesthetics</font>
 
@@ -51,7 +55,9 @@ As a passion-driven software engineer based in <b>Ingushetia</b>, I am actively 
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a425-11eb-8589-111578283bbf.gif" width="100%" height="2px" />
+</p>
 
 
 
@@ -61,7 +67,9 @@ As a passion-driven software engineer based in <b>Ingushetia</b>, I am actively 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=connikll&theme=github_dark" alt="3D Graph" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a425-11eb-8589-111578283bbf.gif" width="100%" height="2px" />
+</p>
 
 ### <font face="Fira Code, Consolas" color="#DC2626">🐍 Contribution Snake</font>
 
@@ -69,7 +77,9 @@ As a passion-driven software engineer based in <b>Ingushetia</b>, I am actively 
   <img src="https://raw.githubusercontent.com/connikll/connikll/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a425-11eb-8589-111578283bbf.gif" width="100%" height="2px" />
+</p>
 
 ### <font face="Fira Code, Consolas" color="#DC2626">🛠️ Tech Stack & Skills</font>
 
@@ -89,7 +99,9 @@ As a passion-driven software engineer based in <b>Ingushetia</b>, I am actively 
   <img src="https://img.shields.io/badge/Figma-1c1917?style=for-the-badge&logo=figma&logoColor=DC2626" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a425-11eb-8589-111578283bbf.gif" width="100%" height="2px" />
+</p>
 
 ### <font face="Fira Code, Consolas" color="#DC2626">📊 Activity & Stats</font>
 
@@ -97,7 +109,9 @@ As a passion-driven software engineer based in <b>Ingushetia</b>, I am actively 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=connikll&theme=dark&background=0d1117&ring=dc2626&fire=dc2626&currStreakNum=ffffff&currStreakLabel=dc2626&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a425-11eb-8589-111578283bbf.gif" width="100%" height="2px" />
+</p>
 
 ### <font face="Fira Code, Consolas" color="#DC2626">🌐 Connect & Socials</font>
 
@@ -117,4 +131,10 @@ As a passion-driven software engineer based in <b>Ingushetia</b>, I am actively 
   <a href="https://discord.com/users/connik8153" target="_blank">
     <img src="https://img.shields.io/badge/Discord-connik8153-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
+</p>
+
+
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Timezone-UTC%2B3-1c1917?style=for-the-badge&logo=googlecalendar&logoColor=DC2626" />
 </p>
