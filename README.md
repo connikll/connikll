@@ -1,4 +1,4 @@
-<p align="center">
+
   <img src="https://i.pinimg.com/originals/4b/ea/28/4bea2858807ad93ace92f17334e9b456.gif" width="100%" style="border-radius: 10px; border: 1px solid #dc2626;" />
 </p>
 <div align="center">
@@ -7,6 +7,7 @@
 
 <br />
 
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=991B1B&center=true&vCenter=true&width=435&lines=Software+Engineer;Android+Developer;Kotlin+%26+Java+Enthusiast" alt="Typing SVG" />
 
 </div>
