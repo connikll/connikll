@@ -7,8 +7,15 @@
 
 <br />
 
-<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=991B1B&center=true&vCenter=true&width=435&lines=Software+Engineer;Android+Developer;Kotlin+%26+Java+Enthusiast" alt="Typing SVG" />
+
+</div>
+
+<div align="center">
+
+<a href="https://spotify.com">
+  <img src="https://novatx-spotify-github-profile.vercel.app/api/spotify" alt="Spotify Currently Playing" style="border-radius:8px; border: 1px solid #dc2626;" />
+</a>
 
 </div>
 
