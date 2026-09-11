@@ -5,6 +5,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DC2626&center=true&width=435&lines=Software+Engineer;Android+Developer;Kotlin+%26+Java+Enthusiast" alt="Typing SVG" />
 
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=connikll&color=dc2626&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
 </div>
 
 ---
