@@ -12,10 +12,12 @@
 </div>
 
 <div align="center">
-
-<a href="https://spotify.com">
-  <img src="https://novatx-spotify-github-profile.vercel.app/api/spotify" alt="Spotify Currently Playing" style="border-radius:8px; border: 1px solid #dc2626;" />
+  
+<a href="https://open.spotify.com">
+  <img src="https://img.shields.io/badge/Spotify-Listening...-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d1117" alt="Spotify" />
 </a>
+
+</div>
 
 </div>
 
