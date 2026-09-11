@@ -1,22 +1,31 @@
-# Hi 👋, I'm Umar Sautiev
+<div align="center">
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DC2626&width=435&lines=Software+Engineer;Android+Developer;Kotlin+%26+Java+Enthusiast" alt="Typing SVG" />
-</p>
+# <font face="Fira Code, Courier New" color="#DC2626">Hi 👋, I'm Umar Sautiev</font>
 
-### 🚀 About Me
-As a passion-driven beginner software engineer based in **Ingushetia**, I am actively expanding my skillset in mobile application development, object-oriented design, and backend REST APIs. I am currently focused on building native Android applications and collaborating on open-source projects.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DC2626&center=true&width=435&lines=Software+Engineer;Android+Developer;Kotlin+%26+Java+Enthusiast" alt="Typing SVG" />
 
-- 🌍 **Location:** Ingushetia
-- ✉️ **Contact:** [sautievumar77@gmail.com](mailto:sautievumar77@gmail.com)
-- 🖥️ **Portfolio / Featured Project:** [Java Task Management](https://github.com/Barakhoev/java-task-management)
-- 🚀 **Currently working on:** [Android App](https://github.com/connikll/AndroidApp)
-- 🧠 **Currently learning:** Android App Development (Kotlin, Jetpack)
-- 👥 **Looking to collaborate on:** Open-source projects & Android applications
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### <font face="Fira Code, Consolas" color="#DC2626">🚀 About Me</font>
+
+<font face="Segoe UI, sans-serif">
+
+As a passion-driven beginner software engineer based in **Ingushetia**, I am actively expanding my skillset in mobile application development, object-oriented design, and backend REST APIs. I am currently focused on building native Android applications and collaborating on open-source projects.
+
+</font>
+
+* 🌍 **Location:** <font color="#DC2626">Ingushetia</font>
+* ✉️ **Contact:** <a href="mailto:sautievumar77@gmail.com"><font color="#DC2626">sautievumar77@gmail.com</font></a>
+* 🖥️ **Portfolio:** <a href="https://github.com/Barakhoev/java-task-management"><font color="#DC2626">Java Task Management</font></a>
+* 🚀 **Working on:** <a href="https://github.com/connikll/AndroidApp"><font color="#DC2626">Android App</font></a>
+* 🧠 **Learning:** Android Application Development (Kotlin, Jetpack)
+* 👥 **Collaborating:** Open-source projects & Mobile apps
+
+---
+
+### <font face="Fira Code, Consolas" color="#DC2626">🛠️ Tech Stack & Skills</font>
 
 <p align="left">
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" alt="Kotlin" title="Kotlin" width="40" height="40" /></a> &nbsp;
@@ -35,7 +44,7 @@ As a passion-driven beginner software engineer based in **Ingushetia**, I am act
 
 ---
 
-### 📊 GitHub Statistics
+### <font face="Fira Code, Consolas" color="#DC2626">📊 Activity & Stats</font>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=connikll&theme=dark&background=0d1117&ring=dc2626&fire=dc2626&currStreakNum=ffffff&currStreakLabel=dc2626&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
@@ -43,19 +52,32 @@ As a passion-driven beginner software engineer based in **Ingushetia**, I am act
 
 ---
 
-### 📌 Featured Projects
+### <font face="Fira Code, Consolas" color="#DC2626">📌 Featured Projects</font>
 
-#### 📱 [Android Application](https://github.com/connikll/AndroidApp)
-- Native Android project currently in active development.
-- Key tech: Kotlin, Android SDK, Gradle, Clean Architecture principles.
-
-#### ☕ [Java Task Management System](https://github.com/Barakhoev/java-task-management)
-- Task and activity tracking application built with Java and object-oriented patterns.
-- Demonstrates data persistence and clean code practices.
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4><font color="#DC2626">📱 Android Application</font></h4>
+      <p><font size="2">Native Android project built with Kotlin and Jetpack. Clean architecture and modern UI design.</font></p>
+      <!-- Замени URL картинки ниже на скриншот своего приложения -->
+      <a href="https://github.com/connikll/AndroidApp">
+        <img src="https://via.placeholder.com/400x200/0d1117/dc2626?text=Android+App+Screenshot" width="100%" style="border-radius:8px; border: 1px solid #dc2626;" alt="Android App Preview" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h4><font color="#DC2626">☕ Java Task Manager</font></h4>
+      <p><font size="2">Backend application for task tracking, demonstrating OOP design patterns and file persistence.</font></p>
+      <!-- Замени URL картинки ниже на скриншот своего проекта -->
+      <a href="https://github.com/Barakhoev/java-task-management">
+        <img src="https://via.placeholder.com/400x200/0d1117/dc2626?text=Java+Project+Preview" width="100%" style="border-radius:8px; border: 1px solid #dc2626;" alt="Java Project Preview" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🌐 Connect & Socials
+### <font face="Fira Code, Consolas" color="#DC2626">🌐 Connect & Socials</font>
 
 <p align="left">
   <a href="https://github.com/connikll" target="_blank">
