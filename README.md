@@ -18,9 +18,7 @@
 
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andrei-karpov/andrei-karpov/main/assets/line.svg" width="100%" />
-</p>
+<hr style="background-color: #DC2626; height: 1px; border: none; margin: 20px 0;" />
 
 ### <font face="Fira Code, Consolas" color="#DC2626">🚀 About Me</font>
 
