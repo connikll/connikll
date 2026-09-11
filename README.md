@@ -44,17 +44,8 @@ As a passion-driven beginner software engineer based in **Ingushetia**, I am act
 ### <font face="Fira Code, Consolas" color="#DC2626">📊 Top Languages</font>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=connikll&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=dc2626&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=connikll&theme=dark&hide_border=true&title_color=dc2626&text_color=ffffff" alt="Top Languages" />
 </p>
-
----
-
-### <font face="Fira Code, Consolas" color="#DC2626">🐍 Contribution Snake</font>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/connikll/connikll/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
 ---
 
 ### <font face="Fira Code, Consolas" color="#DC2626">🛠️ Tech Stack & Skills</font>
