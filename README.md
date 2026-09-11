@@ -19,7 +19,7 @@
 </div>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a425-11eb-8589-111578283bbf.gif" width="100%" height="2px" />
+  <img src="https://raw.githubusercontent.com/andrei-karpov/andrei-karpov/main/assets/line.svg" width="100%" />
 </p>
 
 ### <font face="Fira Code, Consolas" color="#DC2626">🚀 About Me</font>
