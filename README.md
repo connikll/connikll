@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="URL_ТВОЕГО_БАННЕРА_ИЛИ_ГИФКИ.gif" width="100%" style="border-radius: 10px; border: 1px solid #dc2626;" />
+  <img src="https://pin.it/63m7diyZb" width="100%" style="border-radius: 10px; border: 1px solid #dc2626;" />
 </p>
 # <font face="Fira Code, Courier New" color="#DC2626">I'm Umar Sautiev</font>
 
