@@ -51,19 +51,6 @@ As a passion-driven software engineer based in <b>Ingushetia</b>, I am actively 
 ---
 
 
-### <font face="Fira Code, Consolas" color="#DC2626">📌 Featured Projects</font>
-
-<p align="left">
-  <a href="https://github.com/connikll/AndroidApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=connikll&repo=AndroidApp&theme=dark&bg_color=0d1117&title_color=dc2626&text_color=ffffff&icon_color=dc2626&border_color=dc2626" />
-  </a>
-  <a href="https://github.com/Barakhoev/java-task-management">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Barakhoev&repo=java-task-management&theme=dark&bg_color=0d1117&title_color=dc2626&text_color=ffffff&icon_color=dc2626&border_color=dc2626" />
-  </a>
-</p>
-
-
----
 
 ### <font face="Fira Code, Consolas" color="#DC2626">🐍 Contribution Snake</font>
 
