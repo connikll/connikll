@@ -62,18 +62,19 @@ As a passion-driven software engineer based in <b>Ingushetia</b>, I am actively 
 ### <font face="Fira Code, Consolas" color="#DC2626">🛠️ Tech Stack & Skills</font>
 
 <p align="left">
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" alt="Kotlin" title="Kotlin" width="40" height="40" /></a> &nbsp;
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="40" height="40" /></a> &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="40" height="40" /></a> &nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="40" height="40" /></a> &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="40" height="40" /></a> &nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="40" height="40" /></a> &nbsp;
-  <a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title="Vim" width="40" height="40" /></a> &nbsp;
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="40" height="40" /></a> &nbsp;
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="40" height="40" /></a> &nbsp;
-  <a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fedora-colored.svg" alt="Fedora" title="Fedora" width="40" height="40" /></a> &nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="40" height="40" /></a> &nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="40" height="40" /></a>
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Kotlin-991B1B?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-991B1B?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-991B1B?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-991B1B?style=for-the-badge&logo=react&logoColor=white" />
+  <br />
+  <!-- Tools & OS -->
+  <img src="https://img.shields.io/badge/Linux-1c1917?style=for-the-badge&logo=linux&logoColor=DC2626" />
+  <img src="https://img.shields.io/badge/Fedora-1c1917?style=for-the-badge&logo=fedora&logoColor=DC2626" />
+  <img src="https://img.shields.io/badge/Docker-1c1917?style=for-the-badge&logo=docker&logoColor=DC2626" />
+  <img src="https://img.shields.io/badge/VS_Code-1c1917?style=for-the-badge&logo=visualstudiocode&logoColor=DC2626" />
+  <img src="https://img.shields.io/badge/Vim-1c1917?style=for-the-badge&logo=vim&logoColor=DC2626" />
+  <img src="https://img.shields.io/badge/Figma-1c1917?style=for-the-badge&logo=figma&logoColor=DC2626" />
 </p>
 
 ---
