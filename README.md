@@ -79,7 +79,7 @@ As a passion-driven software engineer based in <b>Ingushetia</b>, I am actively 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=dc2626&height=2&section=header" width="100%" />
 </p>
-### <font face="Fira Code, Consolas" color="#DC2626">🛠️ Tech Stack & Skills</font>
+<font face="Fira Code, Consolas" color="#DC2626">🛠️ Tech Stack & Skills</font>
 
 <p align="left">
   <!-- Languages -->
