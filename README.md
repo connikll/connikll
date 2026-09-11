@@ -47,6 +47,14 @@ As a passion-driven beginner software engineer based in **Ingushetia**, I am act
 
 ---
 
+### 📌 GitHub stats
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=connikll&theme=dark&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
 ### 🌐 Connect & Socials
 
 <p align="left">
