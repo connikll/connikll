@@ -11,25 +11,18 @@
 ### <font face="Fira Code, Consolas" color="#DC2626">🚀 About Me</font>
 
 <blockquote>
-<font face="Segoe UI, sans-serif" size="3">
-As a passion-driven software engineer based in <b>Ingushetia</b>, I am actively expanding my skillset in mobile application development, object-oriented design, and backend REST APIs. Currently focused on building native Android apps and contributing to open-source.
+<font face="Segoe UI, sans-serif">
+As a passion-driven software engineer based in <b>Ingushetia</b>, I am actively expanding my skillset in mobile application development, object-oriented design, and backend REST APIs.
 </font>
 </blockquote>
 
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <p>🌐 <b>Location:</b> <font color="#DC2626">Ingushetia</font></p>
-      <p>✉️ <b>Contact:</b> <a href="mailto:sautievumar77@gmail.com"><font color="#DC2626">sautievumar77@gmail.com</font></a></p>
-      <p>💻 <b>Portfolio:</b> <a href="https://github.com/Barakhoev/java-task-management"><font color="#DC2626">Java Task Management</font></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <p>🚀 <b>Working on:</b> <a href="https://github.com/connikll/AndroidApp"><font color="#DC2626">Android App</font></a></p>
-      <p>🧠 <b>Learning:</b> <font color="#DC2626">Kotlin, Jetpack, Clean Architecture</font></p>
-      <p>👥 <b>Collaborating:</b> <font color="#DC2626">Open-Source & Android Apps</font></p>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://img.shields.io/badge/Location-Ingushetia-1c1917?style=flat-square&logoColor=DC2626" />
+  <a href="mailto:sautievumar77@gmail.com"><img src="https://img.shields.io/badge/Email-sautievumar77%40gmail.com-991B1B?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <br />
+  <a href="https://github.com/connikll/AndroidApp"><img src="https://img.shields.io/badge/Focus-Android_App_(Kotlin)-1c1917?style=flat-square&logo=android&logoColor=DC2626" /></a>
+  <a href="https://github.com/Barakhoev/java-task-management"><img src="https://img.shields.io/badge/Featured-Java_Task_Management-1c1917?style=flat-square&logo=java&logoColor=DC2626" /></a>
+</p>
 
 ---
 
