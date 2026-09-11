@@ -57,6 +57,13 @@ As a passion-driven software engineer based in <b>Ingushetia</b>, I am actively 
 ---
 
 
+### <font face="Fira Code, Consolas" color="#DC2626">🧊 3D Contribution Graph</font>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=connikll&theme=github_dark" alt="3D Graph" />
+</p>
+
+---
 
 ### <font face="Fira Code, Consolas" color="#DC2626">🐍 Contribution Snake</font>
 
