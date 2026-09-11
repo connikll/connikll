@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/4b/ea/28/4bea2858807ad93ace92f17334e9b456.gif" width="100%" style="border-radius: 10px; border: 1px solid #dc2626;" />
 </p>
-# <font face="Fira Code, Courier New" color="#DC2626">I'm Umar Sautiev</font>
+<font face="Fira Code, Courier New" color="#DC2626">I'm Umar Sautiev</font>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DC2626&center=true&width=435&lines=Software+Engineer;Android+Developer;Kotlin+%26+Java+Enthusiast" alt="Typing SVG" />
 
