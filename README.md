@@ -33,6 +33,21 @@ As a passion-driven software engineer based in <b>Ingushetia</b>, I am actively 
 
 ---
 
+### <font face="Fira Code, Consolas" color="#DC2626">🖼️ Gallery & Aesthetics</font>
+
+<table border="0">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://i.pinimg.com/1200x/b2/f7/7d/b2f77d11a9bc6d19a7d9f9df2ab03630.jpg" />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://i.pinimg.com/736x/fa/24/9b/fa249b4e4d65bc40c347a60739cd84a7.jpg" width="100%" style="border-radius:10px; border: 1px solid #dc2626;" alt="Artwork 2" />
+    </td>
+  </tr>
+</table>
+
+---
+
 
 ### <font face="Fira Code, Consolas" color="#DC2626">📊 Top Languages</font>
 
