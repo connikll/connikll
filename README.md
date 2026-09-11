@@ -44,7 +44,7 @@ As a passion-driven beginner software engineer based in **Ingushetia**, I am act
 ### <font face="Fira Code, Consolas" color="#DC2626">📊 Top Languages</font>
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=connikll&layout=compact&theme=dark&hide_border=true&title_color=dc2626&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=connikll&theme=github_dark" alt="Top Languages" />
 </p>
 
 ---
