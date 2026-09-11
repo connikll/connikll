@@ -1,9 +1,15 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/4b/ea/28/4bea2858807ad93ace92f17334e9b456.gif" width="100%" style="border-radius: 10px; border: 1px solid #dc2626;" />
 </p>
-<font face="Fira Code, Courier New" color="#DC2626">I'm Umar Sautiev</font>
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DC2626&center=true&width=435&lines=Software+Engineer;Android+Developer;Kotlin+%26+Java+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=DC2626&center=true&vCenter=true&width=500&height=50&lines=I'm+Umar+Sautiev" alt="Umar Sautiev" />
+
+<br />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=991B1B&center=true&vCenter=true&width=435&lines=Software+Engineer;Android+Developer;Kotlin+%26+Java+Enthusiast" alt="Typing SVG" />
+
+</div>
 
 
 <p align="left">
