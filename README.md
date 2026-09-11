@@ -18,7 +18,9 @@
 
 </div>
 
-<hr style="background-color: #DC2626; height: 1px; border: none; margin: 20px 0;" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=dc2626&height=2&section=header" width="100%" />
+</p>
 
 ### <font face="Fira Code, Consolas" color="#DC2626">🚀 About Me</font>
 
@@ -37,7 +39,7 @@ As a passion-driven software engineer based in <b>Ingushetia</b>, I am actively 
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a425-11eb-8589-111578283bbf.gif" width="100%" height="2px" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=dc2626&height=2&section=header" width="100%" />
 </p>
 
 ### <font face="Fira Code, Consolas" color="#DC2626">🖼️ Gallery & Aesthetics</font>
@@ -54,9 +56,8 @@ As a passion-driven software engineer based in <b>Ingushetia</b>, I am actively 
 </table>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a425-11eb-8589-111578283bbf.gif" width="100%" height="2px" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=dc2626&height=2&section=header" width="100%" />
 </p>
-
 
 
 ### <font face="Fira Code, Consolas" color="#DC2626">🧊 3D Contribution Graph</font>
@@ -76,9 +77,8 @@ As a passion-driven software engineer based in <b>Ingushetia</b>, I am actively 
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a425-11eb-8589-111578283bbf.gif" width="100%" height="2px" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=dc2626&height=2&section=header" width="100%" />
 </p>
-
 ### <font face="Fira Code, Consolas" color="#DC2626">🛠️ Tech Stack & Skills</font>
 
 <p align="left">
@@ -98,7 +98,7 @@ As a passion-driven software engineer based in <b>Ingushetia</b>, I am actively 
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a425-11eb-8589-111578283bbf.gif" width="100%" height="2px" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=dc2626&height=2&section=header" width="100%" />
 </p>
 
 ### <font face="Fira Code, Consolas" color="#DC2626">📊 Activity & Stats</font>
