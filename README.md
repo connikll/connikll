@@ -114,11 +114,11 @@ As a passion-driven software engineer based in <b>Ingushetia</b>, I am actively 
 ### <font face="Fira Code, Consolas" color="#DC2626">🌐 Connect & Socials</font>
 
 <p align="center">
-  <a href="https://github.com/connikll"><img src="https://img.shields.io/badge/GitHub-connikll-1c1917?style=for-the-badge&logo=github&logoColor=DC2626&labelColor=0d1117" /></a>
-  <a href="https://x.com/connik26"><img src="https://img.shields.io/badge/X-connik26-1c1917?style=for-the-badge&logo=x&logoColor=DC2626&labelColor=0d1117" /></a>
-  <a href="https://twitch.tv/connik2"><img src="https://img.shields.io/badge/Twitch-connik2-1c1917?style=for-the-badge&logo=twitch&logoColor=DC2626&labelColor=0d1117" /></a>
-  <a href="https://youtube.com/@connik5150"><img src="https://img.shields.io/badge/YouTube-connik5150-1c1917?style=for-the-badge&logo=youtube&logoColor=DC2626&labelColor=0d1117" /></a>
-  <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-connik8153-1c1917?style=for-the-badge&logo=discord&logoColor=DC2626&labelColor=0d1117" /></a>
+  <a href="https://github.com/connikll"><img src="https://img.shields.io/badge/-GitHub-1c1917?style=social&logo=github" height="28" /></a>
+  <a href="https://x.com/connik26"><img src="https://img.shields.io/badge/-X-1c1917?style=social&logo=x" height="28" /></a>
+  <a href="https://twitch.tv/connik2"><img src="https://img.shields.io/badge/-Twitch-1c1917?style=social&logo=twitch" height="28" /></a>
+  <a href="https://youtube.com/@connik5150"><img src="https://img.shields.io/badge/-YouTube-1c1917?style=social&logo=youtube" height="28" /></a>
+  <a href="https://discord.com"><img src="https://img.shields.io/badge/-Discord-1c1917?style=social&logo=discord" height="28" /></a>
 </p>
 
 <p align="center">
