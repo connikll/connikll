@@ -1,6 +1,6 @@
 <div align="center">
 
-# <font face="Fira Code, Courier New" color="#DC2626">Hi 👋, I'm Umar Sautiev</font>
+# <font face="Fira Code, Courier New" color="#DC2626">I'm Umar Sautiev</font>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DC2626&center=true&width=435&lines=Software+Engineer;Android+Developer;Kotlin+%26+Java+Enthusiast" alt="Typing SVG" />
 
