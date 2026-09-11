@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://pin.it/63m7diyZb" width="100%" style="border-radius: 10px; border: 1px solid #dc2626;" />
+  <img src="https://i.pinimg.com/736x/83/d5/4f/83d54ff3e061c840d6f2d200fd32862c.jpg" width="100%" style="border-radius: 10px; border: 1px solid #dc2626;" />
 </p>
 # <font face="Fira Code, Courier New" color="#DC2626">I'm Umar Sautiev</font>
 
