@@ -49,6 +49,15 @@ As a passion-driven beginner software engineer based in **Ingushetia**, I am act
 
 ---
 
+
+### <font face="Fira Code, Consolas" color="#DC2626">🐍 Contribution Snake</font>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/connikll/connikll/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
 ### <font face="Fira Code, Consolas" color="#DC2626">🛠️ Tech Stack & Skills</font>
 
 <p align="left">
