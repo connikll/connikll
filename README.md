@@ -15,7 +15,7 @@
 
 
 <a href="https://open.spotify.com">
-  <img src="https://img.shields.io/badge/Spotify-Fixuoboy%20--%20Tesla-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d1117" alt="Spotify Track" />
+  <img src="https://img.shields.io/badge/Spotify-Fixupboy%20--%20Tesla-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d1117" alt="Spotify Track" />
 </a>
 
 </div>
