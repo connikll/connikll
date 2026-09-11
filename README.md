@@ -30,7 +30,7 @@ As a passion-driven beginner software engineer based in **Ingushetia**, I am act
 <table border="0">
   <tr>
     <td width="50%" align="center" valign="middle">
-      <img src="https://i.imgur.com/H9GQ06N.png" width="100%" style="border-radius:10px; border: 1px solid #dc2626;" alt="Artwork 1" />
+      <img src="https://pin.it/31UynnRTz" />
     </td>
     <td width="50%" align="center" valign="middle">
       <img src="https://i.pinimg.com/736x/fa/24/9b/fa249b4e4d65bc40c347a60739cd84a7.jpg" width="100%" style="border-radius:10px; border: 1px solid #dc2626;" alt="Artwork 2" />
